@@ -10,7 +10,7 @@
 
 ## Perfil profesional
 
-Desarrollo sistemas de IA, agentes y automatizaciones con foco en **control, trazabilidad y continuidad**. Diseño y construyo **FORGE OS**, una plataforma propia de IA gobernada que separa el gobierno de la ejecución de agentes, con backend en Python y TypeScript, PostgreSQL e infraestructura propia sobre Linux y Docker Swarm. Experiencia práctica integrando APIs y automatizando procesos de negocio con n8n, Airtable y Chatwoot. Me interesa aportar en equipos que construyan agentes, backend e integraciones con proyectos reales y evidencia técnica demostrable.
+Desarrollo sistemas de IA, agentes y automatizaciones con foco en **fiabilidad, calidad y operación responsable**. Diseño y construyo **FORGE OS**, un proyecto propio de ingeniería de IA, utilizando Python, TypeScript, PostgreSQL e infraestructura Linux. Experiencia práctica integrando APIs y automatizando procesos de negocio con n8n, Airtable y Chatwoot. Me interesa aportar en equipos que construyan agentes, backend e integraciones con proyectos reales y evidencia técnica demostrable.
 
 ## Proyectos técnicos
 
@@ -18,12 +18,12 @@ Desarrollo sistemas de IA, agentes y automatizaciones con foco en **control, tra
 
 **En desarrollo · Arquitectura y desarrollo**
 
-- **Arquitectura:** separación entre gobierno y control (Motor) y ejecución de agentes (Cerebro).
+- **Diseño de sistemas:** trabajo en aplicaciones de IA con requisitos de fiabilidad y operación responsable; arquitectura interna privada.
 - **Backend y APIs:** Python, TypeScript/Node.js, PostgreSQL y OpenAI API.
-- **Gobernanza:** estado persistente, Row-Level Security, identidad, autoridad, políticas, aprobaciones humanas y auditoría.
-- **Ejecución de agentes:** herramientas, pruebas, recuperación, checkpoints y continuidad; parte de estas capacidades sigue en desarrollo.
+- **Seguridad y calidad:** experiencia con controles de acceso, datos persistentes, pruebas y trazabilidad; detalles internos reservados.
+- **Agentes:** desarrollo, integración y pruebas de componentes de IA; capacidades adicionales en evolución.
 - **Infraestructura:** Linux, VPS en Hetzner Cloud, Docker, Docker Swarm, Traefik, Git y GitHub/GHCR.
-- **Método:** investigación previa, cambios mínimos, pruebas, evidencia, trazabilidad y revisión.
+- **Método:** desarrollo iterativo, pruebas, revisión y documentación.
 
 ### Desarrollo y automatización — aplicaciones, backend e integraciones
 
