@@ -1,6 +1,6 @@
 # Aleix Compte Gamisans
 
-### AI Engineer · Agentic AI · AI Automation & Systems Engineering
+### Sistemas de IA · Agentes · Automatización · Software e infraestructura
 
 Desarrollo soluciones de inteligencia artificial, software, automatización e infraestructura, con experiencia práctica en el diseño, construcción y operación de sistemas propios.
 
@@ -78,13 +78,13 @@ Trabajo en aplicaciones, servicios web y conexiones entre herramientas y sistema
 
 ## Formación
 
-### Desarrollo profesional en ingeniería de IA y software
+### Máster en Automatización — VA360
 
-Experiencia práctica desarrollando sistemas de IA, aplicaciones, automatizaciones e infraestructura propia, con investigación técnica, pruebas y resolución de incidencias.
+Formación realizada en automatización de procesos, integraciones, APIs, agentes de IA y orquestación con n8n.
 
-### VA360 — IA aplicada a la automatización de sistemas
+### Aprendizaje y experiencia técnica práctica
 
-Formación en automatización, APIs, agentes y orquestación de procesos mediante herramientas como n8n.
+Desarrollo de sistemas de IA, aplicaciones, automatizaciones e infraestructura propia, con investigación técnica, pruebas y resolución de incidencias.
 
 ### Formación reglada anterior
 
@@ -96,7 +96,7 @@ Técnico en Explotaciones Agropecuarias — Escola Agrària de Manresa (1999).
 
 Mi trayectoria profesional también incluye experiencia en la **Generalitat de Catalunya**, el **Ajuntament de Gandesa** y el sector del transporte. Soy asimismo entrenador nacional de hockey sobre patines, con experiencia en planificación, coordinación, liderazgo y dirección de equipos.
 
-Estoy orientando mi desarrollo profesional hacia puestos de **AI Engineer, Agentic AI Engineer, AI Automation Engineer** y **Backend & Integrations**, apoyándome en proyectos propios y experiencia técnica demostrable.
+Estoy orientando mi carrera hacia oportunidades de **desarrollo de sistemas de IA, agentes, automatización, backend e integraciones**, con proyectos propios y experiencia técnica demostrable.
 
 ---
 
