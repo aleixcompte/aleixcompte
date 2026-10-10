@@ -2,7 +2,7 @@
 
 ### AI Engineer · Agentic AI · AI Automation & Systems Engineering
 
-Soy un profesional de trayectoria **autodidacta** en inteligencia artificial, desarrollo de software, automatización e infraestructura. He adquirido estos conocimientos investigando, estudiando documentación técnica, experimentando y construyendo mis propios sistemas.
+Desarrollo soluciones de inteligencia artificial, software, automatización e infraestructura, con experiencia práctica en el diseño, construcción y operación de sistemas propios.
 
 Actualmente diseño y desarrollo **FORGE OS**, una plataforma propia de ingeniería de IA enfocada en agentes, gobernanza, trazabilidad y ejecución durable. Me interesa crear sistemas que no solo ejecuten tareas, sino que permitan verificar qué ocurrió, bajo qué autoridad y con qué controles.
 
@@ -78,9 +78,9 @@ Trabajo en aplicaciones, servicios web y conexiones entre herramientas y sistema
 
 ## Formación
 
-### Aprendizaje autodidacta en ingeniería de IA y software
+### Desarrollo profesional en ingeniería de IA y software
 
-Aprendizaje continuo a través de documentación, investigación, experimentación, desarrollo de software, resolución de incidencias y operación de infraestructura propia.
+Experiencia práctica desarrollando sistemas de IA, aplicaciones, automatizaciones e infraestructura propia, con investigación técnica, pruebas y resolución de incidencias.
 
 ### VA360 — IA aplicada a la automatización de sistemas
 
