@@ -23,7 +23,7 @@ FORGE OS es un proyecto de ingeniería avanzada de IA, construido sobre infraest
 - Trabajo con **PostgreSQL**, SQL, control de acceso mediante RLS y persistencia de estado.
 - Implementación de conceptos de identidad, autoridad, políticas, aprobación humana y auditoría.
 - Construcción, pruebas y diagnóstico de componentes de ejecución de agentes y continuidad.
-- Administración de infraestructura **Linux, VPS, Docker y Docker Swarm**.
+- Administración de infraestructura **Linux, VPS Hetzner Cloud, Docker y Docker Swarm**.
 - Versionado y validación de cambios con Git, GitHub, tests y evidencia técnica.
 
 ### Evolución del proyecto
@@ -47,7 +47,7 @@ Inventario amplio de **tecnologías y plataformas con las que he trabajado en mi
 | **Arquitectura de agentes** | Agentes de IA, flujos agentic, runtime de agentes, checkpoints, recuperación, human-in-the-loop, policies, tool routing y evaluación |
 | **Backend e integración** | REST APIs, OpenAPI, JSON, HTTP, webhooks, servicios backend, integraciones API, contratos de datos |
 | **Datos, persistencia y control** | PostgreSQL, SQL, Row-Level Security (RLS), migraciones, transacciones, estados durables, auditoría y evidencia |
-| **Infraestructura y despliegue** | Linux, Ubuntu Server, VPS, Docker, Docker Swarm, Traefik, reverse proxies, systemd, servicios y sockets Unix, SSH |
+| **Infraestructura y despliegue** | Linux, Ubuntu Server, VPS Hetzner Cloud, Docker, Docker Swarm, Traefik, reverse proxies, systemd, servicios y sockets Unix, SSH |
 | **Control de versiones e ingeniería** | Git, GitHub, GitHub Container Registry (GHCR), ramas, commits, Pull Requests, revisiones, tests automatizados, comprobaciones CI/CD, versionado de imágenes y rollback |
 | **Automatización y orquestación** | n8n, Make, Airtable, webhooks, integraciones de procesos y automatización de workflows |
 | **Mensajería, atención e integraciones comerciales** | Evolution API, WhatsApp Business / WhatsApp Cloud API, Chatwoot, MailerLite, Tally, Inrō |
