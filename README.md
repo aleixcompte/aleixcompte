@@ -36,18 +36,31 @@ El principio rector del sistema es:
 
 ---
 
-## Competencias y tecnologías
+## Stack tecnológico y herramientas
 
-| Área | Tecnologías y prácticas |
+Inventario amplio de **tecnologías y plataformas con las que he trabajado en mis proyectos FORGE OS y Escuela MANA**, separado de capacidades arquitectónicas y de servicios todavía planificados. La profundidad de uso varía según la herramienta; esta lista no equivale a certificaciones.
+
+| Área | Tecnologías, herramientas y plataformas |
 | --- | --- |
-| **IA y agentes** | LLM APIs, OpenAI, Codex, Claude, AI Agents, tool calling, human-in-the-loop, evaluaciones |
-| **Backend** | Python, TypeScript, Node.js, REST APIs, OpenAPI, JSON, webhooks |
-| **Datos** | PostgreSQL, SQL, estado durable, trazabilidad y auditoría |
-| **Automatización** | n8n, Make, Airtable, Evolution API, WhatsApp Business, MailerLite, Tally |
-| **Infraestructura** | Linux, Ubuntu, Docker, Docker Swarm, Traefik, VPS, SSH |
-| **Ingeniería** | Git, GitHub, pruebas, reproducibilidad, revisión de cambios, seguridad y rollback |
+| **Lenguajes y scripting** | Python, TypeScript, JavaScript, Node.js, SQL, Bash / Shell |
+| **IA generativa y asistencia de desarrollo** | OpenAI API, ChatGPT (Business), OpenAI Codex (CLI), Claude, LLM APIs, tool calling, structured outputs, prompts y diseño de agentes |
+| **Arquitectura de agentes** | Agentes de IA, flujos agentic, runtime de agentes, checkpoints, recuperación, human-in-the-loop, policies, tool routing y evaluación |
+| **Backend e integración** | REST APIs, OpenAPI, JSON, HTTP, webhooks, servicios backend, integraciones API, contratos de datos |
+| **Datos, persistencia y control** | PostgreSQL, SQL, Row-Level Security (RLS), migraciones, transacciones, estados durables, auditoría y evidencia |
+| **Infraestructura y despliegue** | Linux, Ubuntu Server, VPS, Docker, Docker Swarm, Traefik, reverse proxies, systemd, servicios y sockets Unix, SSH |
+| **Control de versiones e ingeniería** | Git, GitHub, GitHub Container Registry (GHCR), ramas, commits, Pull Requests, revisiones, tests automatizados, comprobaciones CI/CD, versionado de imágenes y rollback |
+| **Automatización y orquestación** | n8n, Make, Airtable, webhooks, integraciones de procesos y automatización de workflows |
+| **Mensajería, atención e integraciones comerciales** | Evolution API, WhatsApp Business / WhatsApp Cloud API, Chatwoot, MailerLite, Tally, Inrō |
+| **Documentación, colaboración y operaciones** | Notion, Google Drive, Zoom, Canva, Airtable |
+| **Seguridad y gobernanza** | WebAuthn, identidades y autoridad, policies, approvals humanos, RLS, mínimo privilegio, provenance, audit y checkpoints |
 
-Estas son áreas de experiencia práctica y herramientas utilizadas; no implican titulaciones ni certificaciones individuales.
+### Servicios considerados o previstos (no declarados como implantados)
+
+Stripe, Qonto y Calendly forman parte de herramientas valoradas o planificadas para integraciones futuras. Se indican aparte para **no confundir planificación con experiencia de implementación**.
+
+### Alcance profesional
+
+Los elementos anteriores combinan **herramientas concretas** con **prácticas y tecnologías de ingeniería**. Algunas son parte del desarrollo de FORGE OS; otras pertenecen a automatizaciones e integraciones de Escuela MANA. Las capacidades de FORGE que aún estén en desarrollo no se presentan como productos terminados.
 
 ---
 
