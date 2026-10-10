@@ -4,6 +4,10 @@
 
 **Reus (Tarragona) · Remoto** · [Portfolio](https://aleixcg.com) · [LinkedIn](https://www.linkedin.com/in/aleix-compte-9632543a8) · [GitHub](https://github.com/aleixcompte) · [Contacto](mailto:aleix.compte@gmail.com)
 
+**[📄 Descargar CV profesional (PDF, 2 páginas)](./CV_Aleix_Compte_IA%20%281%29.pdf)**
+
+---
+
 ## Perfil profesional
 
 Desarrollo sistemas de IA, agentes y automatizaciones con foco en **control, trazabilidad y continuidad**. Diseño y construyo **FORGE OS**, una plataforma propia de IA gobernada que separa el gobierno de la ejecución de agentes, con backend en Python y TypeScript, PostgreSQL e infraestructura propia sobre Linux y Docker Swarm. Experiencia práctica integrando APIs y automatizando procesos de negocio con n8n, Airtable y Chatwoot. Me interesa aportar en equipos que construyan agentes, backend e integraciones con proyectos reales y evidencia técnica demostrable.
@@ -63,4 +67,3 @@ Incorporarme a un equipo de desarrollo de sistemas de IA, agentes, automatizaci�
 
 **[Portfolio](https://aleixcg.com)** · **[LinkedIn](https://www.linkedin.com/in/aleix-compte-9632543a8)** · **[FORGE OS público](https://github.com/aleixcompte/forge-os-public)**
 
-*Perfil alineado con el CV validado de dos páginas. El PDF descargable se añadirá cuando el archivo esté publicado en el repositorio.*
