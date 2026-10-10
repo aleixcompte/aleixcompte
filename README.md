@@ -1,133 +1,96 @@
-# Aleix Compte
+# Aleix Compte Gamisans
 
-### AI Systems Engineering · Automation · Agents · Integrations
+### AI Engineer · Agentic AI · AI Automation & Systems Engineering
 
-Construyo sistemas que conectan **inteligencia artificial, software, automatización, datos y procesos de negocio**, con especial atención a la gobernanza, trazabilidad y control de ejecución.
+Soy un profesional de trayectoria **autodidacta** en inteligencia artificial, desarrollo de software, automatización e infraestructura. He adquirido estos conocimientos investigando, estudiando documentación técnica, experimentando y construyendo mis propios sistemas.
 
-Actualmente desarrollo **FORGE OS**, una arquitectura orientada a sistemas de IA autónomos, gobernados y verificables, diseñada para separar claramente capacidad, autoridad, ejecución, evidencia y aprobación humana.
+Actualmente diseño y desarrollo **FORGE OS**, una plataforma propia de ingeniería de IA enfocada en agentes, gobernanza, trazabilidad y ejecución durable. Me interesa crear sistemas que no solo ejecuten tareas, sino que permitan verificar qué ocurrió, bajo qué autoridad y con qué controles.
 
----
-
-## 🚀 Qué estoy construyendo
-
-### FORGE OS
-
-FORGE es un proyecto de ingeniería de sistemas de IA orientado a crear una infraestructura autónoma y durable capaz de:
-
-- gestionar agentes de IA con identidad y autoridad
-- ejecutar herramientas bajo políticas y permisos
-- mantener estado y continuidad entre ejecuciones
-- registrar evidencia y auditoría
-- incorporar aprobación humana en acciones sensibles
-- evaluar modelos, herramientas y agentes
-- automatizar procesos de ingeniería
-- separar el plano de gobierno del plano de ejecución
-- evolucionar sin depender de una única sesión, modelo o proveedor
-
-El objetivo es construir sistemas donde la IA no solo pueda ejecutar tareas, sino donde quede definido **qué puede hacer, bajo qué autoridad, con qué evidencia y cuándo debe detenerse para pedir aprobación**.
+**España** · [Portfolio](https://aleixcg.com) · [LinkedIn](https://www.linkedin.com/in/aleix-compte-9632543a8) · [Email](mailto:aleix.compte@gmail.com)
 
 ---
 
-## 🧠 Áreas de trabajo
+## Proyecto principal: FORGE OS
 
-- AI Agents
-- Agentic Systems
-- AI Governance
-- Autonomous Systems
-- Workflow Automation
-- Backend Engineering
-- APIs & Integrations
-- Data Architecture
-- PostgreSQL
-- Event-driven systems
-- Human-in-the-loop systems
-- Evaluation & Evidence
-- Infrastructure & Deployment
-- AI-assisted Software Engineering
+**[Ver portfolio técnico de FORGE OS](https://github.com/aleixcompte/forge-os-public)**
 
----
+FORGE OS es un proyecto de ingeniería avanzada de IA, construido sobre infraestructura propia. Su arquitectura separa el **Motor** (gobernanza y control) del **Cerebro** (ejecución).
 
-## 🛠 Stack tecnológico
+### Trabajo técnico realizado
 
-**AI & Agents**
+- Diseño de arquitectura de sistemas de agentes y separación entre control y ejecución.
+- Desarrollo e integración de servicios backend y APIs.
+- Trabajo con **PostgreSQL**, SQL, control de acceso mediante RLS y persistencia de estado.
+- Implementación de conceptos de identidad, autoridad, políticas, aprobación humana y auditoría.
+- Construcción, pruebas y diagnóstico de componentes de ejecución de agentes y continuidad.
+- Administración de infraestructura **Linux, VPS, Docker y Docker Swarm**.
+- Versionado y validación de cambios con Git, GitHub, tests y evidencia técnica.
 
-OpenAI · ChatGPT · Codex · Claude · LLM APIs · Agent runtimes · Model routing · Evals
+### Evolución del proyecto
 
-**Backend & Data**
+FORGE sigue en desarrollo. La autonomía integral, la delegación multiagente, la evaluación continua de modelos y herramientas, y la automatización de ingeniería de extremo a extremo forman parte de su evolución. **No presento estas capacidades futuras como funcionalidades ya completamente operativas.**
 
-Python · TypeScript · Node.js · PostgreSQL · SQL · REST APIs · JSON · Webhooks
+El principio rector del sistema es:
 
-**Automation & Integrations**
-
-n8n · Make · Airtable · Evolution API · WhatsApp Business · MailerLite · Tally
-
-**Infrastructure & Engineering**
-
-Linux · Ubuntu · Docker · Docker Swarm · Git · GitHub · CI/CD · SSH · Reverse proxies · VPS infrastructure
-
-**Governance & Architecture**
-
-Policy enforcement · Approvals · Audit · Evidence · Identity · Authority · Durable State · Knowledge · Checkpoints · Tool Registry · Model Registry
+> **Capability ≠ Authority**: disponer de una herramienta o capacidad no significa tener autorización para utilizarla.
 
 ---
 
-## 🏗 Proyectos
+## Competencias y tecnologías
 
-### FORGE OS
-Sistema de gobierno y ejecución para ingeniería avanzada con IA.
+| Área | Tecnologías y prácticas |
+| --- | --- |
+| **IA y agentes** | LLM APIs, OpenAI, Codex, Claude, AI Agents, tool calling, human-in-the-loop, evaluaciones |
+| **Backend** | Python, TypeScript, Node.js, REST APIs, OpenAPI, JSON, webhooks |
+| **Datos** | PostgreSQL, SQL, estado durable, trazabilidad y auditoría |
+| **Automatización** | n8n, Make, Airtable, Evolution API, WhatsApp Business, MailerLite, Tally |
+| **Infraestructura** | Linux, Ubuntu, Docker, Docker Swarm, Traefik, VPS, SSH |
+| **Ingeniería** | Git, GitHub, pruebas, reproducibilidad, revisión de cambios, seguridad y rollback |
 
-Arquitectura basada en:
+Estas son áreas de experiencia práctica y herramientas utilizadas; no implican titulaciones ni certificaciones individuales.
 
-`Objective → Govern → Plan → Execute → Evidence → Verify → Approve → Continue`
+---
+
+## Otros proyectos
 
 ### Escuela MANA
-Diseño e implementación de automatizaciones, funnels, sistemas de datos, integraciones y experiencias digitales para operaciones y adquisición de clientes.
+
+Diseño e implementación de automatizaciones, funnels, integraciones de APIs, sistemas de datos y procesos digitales para operaciones y captación de clientes.
+
+### Desarrollo e integraciones
+
+Trabajo en aplicaciones, servicios web y conexiones entre herramientas y sistemas, desde el diseño de procesos hasta las pruebas y la integración.
 
 ---
 
-## 🔎 Cómo trabajo
+## Formación
 
-No considero que una capacidad de IA implique automáticamente permiso para ejecutarla.
+### Aprendizaje autodidacta en ingeniería de IA y software
 
-Trabajo siguiendo un principio:
+Aprendizaje continuo a través de documentación, investigación, experimentación, desarrollo de software, resolución de incidencias y operación de infraestructura propia.
 
-**Capability ≠ Authority**
+### VA360 — IA aplicada a la automatización de sistemas
 
-Un sistema fiable debe poder demostrar:
+Formación en automatización, APIs, agentes y orquestación de procesos mediante herramientas como n8n.
 
-`Goal → Agent → Authority → Policy → Execution → Evidence → Audit`
+### Formación reglada anterior
 
-Por eso priorizo:
-
-- sistemas reproducibles
-- cambios verificables
-- mínimo privilegio
-- trazabilidad
-- evidencia
-- rollback
-- control humano cuando existe riesgo material
+Técnico en Explotaciones Agropecuarias — Escola Agrària de Manresa (1999).
 
 ---
 
-## 🌐 Portfolio
+## Experiencia y liderazgo
 
-**https://aleixcg.com**
+Mi trayectoria profesional también incluye experiencia en la **Generalitat de Catalunya**, el **Ajuntament de Gandesa** y el sector del transporte. Soy asimismo entrenador nacional de hockey sobre patines, con experiencia en planificación, coordinación, liderazgo y dirección de equipos.
 
----
-
-## 🤝 Intereses profesionales
-
-Estoy especialmente interesado en proyectos relacionados con:
-
-- AI Engineering
-- AI Agents
-- Agentic Automation
-- AI Governance
-- Backend & Integrations
-- Intelligent Automation
-- Applied AI
-- Autonomous Engineering Systems
+Estoy orientando mi desarrollo profesional hacia puestos de **AI Engineer, Agentic AI Engineer, AI Automation Engineer** y **Backend & Integrations**, apoyándome en proyectos propios y experiencia técnica demostrable.
 
 ---
+
+## Método de ingeniería
+
+`Discovery → Verify → Plan → Minimal Change → Tests → Evidence → Review → Deploy Gate → Verify → Checkpoint`
+
+Priorizo la separación entre evidencia e hipótesis, los cambios verificables, la mínima autoridad necesaria, la continuidad operativa y el control humano en decisiones sensibles.
 
 > Building AI systems that can act — without losing control over why, how and under whose authority they act.
