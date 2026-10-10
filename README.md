@@ -1,109 +1,66 @@
 # Aleix Compte Gamisans
 
-### Sistemas de IA · Agentes · Automatización · Software e infraestructura
+### Ingeniero de sistemas de IA · Agentes · Automatización
 
-Desarrollo soluciones de inteligencia artificial, software, automatización e infraestructura, con experiencia práctica en el diseño, construcción y operación de sistemas propios.
+**Reus (Tarragona) · Remoto** · [Portfolio](https://aleixcg.com) · [LinkedIn](https://www.linkedin.com/in/aleix-compte-9632543a8) · [GitHub](https://github.com/aleixcompte) · [Contacto](mailto:aleix.compte@gmail.com)
 
-Actualmente diseño y desarrollo **FORGE OS**, una plataforma propia de ingeniería de IA enfocada en agentes, gobernanza, trazabilidad y ejecución durable. Me interesa crear sistemas que no solo ejecuten tareas, sino que permitan verificar qué ocurrió, bajo qué autoridad y con qué controles.
+## Perfil profesional
 
-**España** · [Portfolio](https://aleixcg.com) · [LinkedIn](https://www.linkedin.com/in/aleix-compte-9632543a8) · [Email](mailto:aleix.compte@gmail.com)
+Desarrollo sistemas de IA, agentes y automatizaciones con foco en **control, trazabilidad y continuidad**. Diseño y construyo **FORGE OS**, una plataforma propia de IA gobernada que separa el gobierno de la ejecución de agentes, con backend en Python y TypeScript, PostgreSQL e infraestructura propia sobre Linux y Docker Swarm. Experiencia práctica integrando APIs y automatizando procesos de negocio con n8n, Airtable y Chatwoot. Me interesa aportar en equipos que construyan agentes, backend e integraciones con proyectos reales y evidencia técnica demostrable.
 
----
+## Proyectos técnicos
 
-## Proyecto principal: FORGE OS
+### [FORGE OS — Plataforma propia de IA gobernada y trazable](https://github.com/aleixcompte/forge-os-public)
 
-**[Ver portfolio técnico de FORGE OS](https://github.com/aleixcompte/forge-os-public)**
+**En desarrollo · Arquitectura y desarrollo**
 
-FORGE OS es un proyecto de ingeniería avanzada de IA, construido sobre infraestructura propia. Su arquitectura separa el **Motor** (gobernanza y control) del **Cerebro** (ejecución).
+- **Arquitectura:** separación entre gobierno y control (Motor) y ejecución de agentes (Cerebro).
+- **Backend y APIs:** Python, TypeScript/Node.js, PostgreSQL y OpenAI API.
+- **Gobernanza:** estado persistente, Row-Level Security, identidad, autoridad, políticas, aprobaciones humanas y auditoría.
+- **Ejecución de agentes:** herramientas, pruebas, recuperación, checkpoints y continuidad; parte de estas capacidades sigue en desarrollo.
+- **Infraestructura:** Linux, VPS en Hetzner Cloud, Docker, Docker Swarm, Traefik, Git y GitHub/GHCR.
+- **Método:** investigación previa, cambios mínimos, pruebas, evidencia, trazabilidad y revisión.
 
-### Trabajo técnico realizado
+### Desarrollo y automatización — aplicaciones, backend e integraciones
 
-- Diseño de arquitectura de sistemas de agentes y separación entre control y ejecución.
-- Desarrollo e integración de servicios backend y APIs.
-- Trabajo con **PostgreSQL**, SQL, control de acceso mediante RLS y persistencia de estado.
-- Implementación de conceptos de identidad, autoridad, políticas, aprobación humana y auditoría.
-- Construcción, pruebas y diagnóstico de componentes de ejecución de agentes y continuidad.
-- Administración de infraestructura **Linux, VPS Hetzner Cloud, Docker y Docker Swarm**.
-- Versionado y validación de cambios con Git, GitHub, tests y evidencia técnica.
+**Proyectos propios y de clientes.** Aplicaciones web, backend e integración de procesos mediante APIs, n8n, Airtable, Chatwoot, Evolution API (WhatsApp) y otras herramientas.
 
-### Evolución del proyecto
+## Competencias técnicas
 
-FORGE sigue en desarrollo. La autonomía integral, la delegación multiagente, la evaluación continua de modelos y herramientas, y la automatización de ingeniería de extremo a extremo forman parte de su evolución. **No presento estas capacidades futuras como funcionalidades ya completamente operativas.**
-
-El principio rector del sistema es:
-
-> **Capability ≠ Authority**: disponer de una herramienta o capacidad no significa tener autorización para utilizarla.
-
----
-
-## Stack tecnológico y herramientas
-
-Inventario amplio de **tecnologías y plataformas con las que he trabajado en mis proyectos FORGE OS y Escuela MANA**, separado de capacidades arquitectónicas y de servicios todavía planificados. La profundidad de uso varía según la herramienta; esta lista no equivale a certificaciones.
-
-| Área | Tecnologías, herramientas y plataformas |
+| Área | Herramientas y tecnologías |
 | --- | --- |
-| **Lenguajes y scripting** | Python, TypeScript, JavaScript, Node.js, SQL, Bash / Shell |
-| **IA generativa y asistencia de desarrollo** | OpenAI API, ChatGPT (Business), OpenAI Codex (CLI), Claude, LLM APIs, tool calling, structured outputs, prompts y diseño de agentes |
-| **Arquitectura de agentes** | Agentes de IA, flujos agentic, runtime de agentes, checkpoints, recuperación, human-in-the-loop, policies, tool routing y evaluación |
-| **Backend e integración** | REST APIs, OpenAPI, JSON, HTTP, webhooks, servicios backend, integraciones API, contratos de datos |
-| **Datos, persistencia y control** | PostgreSQL, SQL, Row-Level Security (RLS), migraciones, transacciones, estados durables, auditoría y evidencia |
-| **Infraestructura y despliegue** | Linux, Ubuntu Server, VPS Hetzner Cloud, Docker, Docker Swarm, Traefik, reverse proxies, systemd, servicios y sockets Unix, SSH |
-| **Control de versiones e ingeniería** | Git, GitHub, GitHub Container Registry (GHCR), ramas, commits, Pull Requests, revisiones, tests automatizados, comprobaciones CI/CD, versionado de imágenes y rollback |
-| **Automatización y orquestación** | n8n, Make, Airtable, webhooks, integraciones de procesos y automatización de workflows |
-| **Mensajería, atención e integraciones comerciales** | Evolution API, WhatsApp Business / WhatsApp Cloud API, Chatwoot, MailerLite, Tally, Inrō |
-| **Documentación, colaboración y operaciones** | Notion, Google Drive, Zoom, Canva, Airtable |
-| **Seguridad y gobernanza** | WebAuthn, identidades y autoridad, policies, approvals humanos, RLS, mínimo privilegio, provenance, audit y checkpoints |
-
-### Servicios considerados o previstos (no declarados como implantados)
-
-Stripe, Qonto y Calendly forman parte de herramientas valoradas o planificadas para integraciones futuras. Se indican aparte para **no confundir planificación con experiencia de implementación**.
-
-### Alcance profesional
-
-Los elementos anteriores combinan **herramientas concretas** con **prácticas y tecnologías de ingeniería**. Algunas son parte del desarrollo de FORGE OS; otras pertenecen a automatizaciones e integraciones de Escuela MANA. Las capacidades de FORGE que aún estén en desarrollo no se presentan como productos terminados.
-
----
-
-## Otros proyectos
-
-### Escuela MANA
-
-Diseño e implementación de automatizaciones, funnels, integraciones de APIs, sistemas de datos y procesos digitales para operaciones y captación de clientes.
-
-### Desarrollo e integraciones
-
-Trabajo en aplicaciones, servicios web y conexiones entre herramientas y sistemas, desde el diseño de procesos hasta las pruebas y la integración.
-
----
+| **IA y agentes** | LLM APIs · OpenAI · Claude · Codex · Agentic AI · Human-in-the-loop · Evals |
+| **Software y datos** | Python · TypeScript · JavaScript · Node.js · PostgreSQL · SQL · OpenAPI · JSON |
+| **Infraestructura** | Linux / Ubuntu · Hetzner Cloud · Docker · Docker Swarm · Traefik · SSH · Git · GitHub / GHCR |
+| **Automatización** | n8n · Make · Airtable · Evolution API · WhatsApp · Chatwoot · MailerLite · Tally |
+| **Colaboración** | Notion · Google Drive · Zoom · Canva · Inrō |
 
 ## Formación
 
-### Máster en Automatización — VA360
+**Máster en Automatización — VA360**  
+Automatización de procesos, integración de APIs, n8n y agentes de IA.
 
-Formación realizada en automatización de procesos, integraciones, APIs, agentes de IA y orquestación con n8n.
+**Técnico en Explotaciones Agropecuarias — FP1, Escola Agrària de Manresa (1999)**
 
-### Aprendizaje y experiencia técnica práctica
+## Experiencia profesional
 
-Desarrollo de sistemas de IA, aplicaciones, automatizaciones e infraestructura propia, con investigación técnica, pruebas y resolución de incidencias.
+- **Conductor D1 — Generalitat de Catalunya, Departament d’Interior** · Jul. 2025 – actualidad. Parque Móvil de la Direcció General de Policia, Camp de Tarragona.
+- **Brigada municipal — Ajuntament de Gandesa** · Feb. – jun. 2025. Mantenimiento, alumbrado público, instalaciones, gestión de incidencias y manejo de maquinaria.
+- **Conductor D1 — Generalitat de Catalunya, Agència de Salut Pública** · 2018 – ene. 2025. Transporte de muestras y suministros, logística, control de inventarios y apoyo administrativo.
+- **Transporte profesional — sector privado** · Experiencia anterior. Ambulancia, camión y autobús en servicios nacionales e internacionales.
 
-### Formación reglada anterior
+## Liderazgo y acreditaciones
 
-Técnico en Explotaciones Agropecuarias — Escola Agrària de Manresa (1999).
+**Entrenador nacional de hockey sobre patines (2009 – actualidad).** Dirección de equipos, planificación deportiva y gestión de grupos. Campeón de Cataluña y de España en categoría juvenil (temporada 2025-26).
+
+**Idiomas y acreditaciones:** Catalán C1 · ACTIC nivel 3 · PRL 30 h · Informática corporativa · Bombero voluntario (2009–2018).
+
+## Objetivo profesional
+
+Incorporarme a un equipo de desarrollo de sistemas de IA, agentes, automatización, backend e integraciones, en entornos que valoren proyectos reales y experiencia técnica demostrable.
 
 ---
 
-## Experiencia y liderazgo
+**[Portfolio](https://aleixcg.com)** · **[LinkedIn](https://www.linkedin.com/in/aleix-compte-9632543a8)** · **[FORGE OS público](https://github.com/aleixcompte/forge-os-public)**
 
-Mi trayectoria profesional también incluye experiencia en la **Generalitat de Catalunya**, el **Ajuntament de Gandesa** y el sector del transporte. Soy asimismo entrenador nacional de hockey sobre patines, con experiencia en planificación, coordinación, liderazgo y dirección de equipos.
-
-Estoy orientando mi carrera hacia oportunidades de **desarrollo de sistemas de IA, agentes, automatización, backend e integraciones**, con proyectos propios y experiencia técnica demostrable.
-
----
-
-## Método de ingeniería
-
-`Discovery → Verify → Plan → Minimal Change → Tests → Evidence → Review → Deploy Gate → Verify → Checkpoint`
-
-Priorizo la separación entre evidencia e hipótesis, los cambios verificables, la mínima autoridad necesaria, la continuidad operativa y el control humano en decisiones sensibles.
-
-> Building AI systems that can act — without losing control over why, how and under whose authority they act.
+*Perfil alineado con el CV validado de dos páginas. El PDF descargable se añadirá cuando el archivo esté publicado en el repositorio.*
